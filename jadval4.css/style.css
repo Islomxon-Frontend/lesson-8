@@ -1,5 +1,5 @@
-table,tr,th,td{
+tr,td{
     border:1px solid;
     width:80;
-    border-collapse:collapse;
+    border-collapse: collapse;
 }
